@@ -21,3 +21,5 @@ http://blog.csdn.net/zouxy09/article/details/24971995
 ## data_save_reload.ipynb
 ###数据/模型的保存和加载
 
+## clr.ipynb
+###cycling learnning rate
